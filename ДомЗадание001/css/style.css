@@ -1,0 +1,193 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+.wrapper {
+    padding-left: 15px;
+    padding-right: 15px;
+    max-width: 1012px;
+    margin: auto;
+}
+.header {
+    display: flex;
+    flex-direction: column;
+}
+.logo {
+    display: flex;
+    justify-content: center;
+}
+.slogan {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    text-transform: uppercase;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+.candy001 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding-left: 170px;
+    padding-right: 170px;
+    background-image: url(../image/fon.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.candy001>ul {
+    list-style-type: none;
+    font-size: 20px;
+    padding-left: 150px;
+}
+.candy001>ul>li {
+    background: #eee;
+    border: 5px ridge #ccc;
+    padding: 10px;
+    float: left;
+    width: 260px;
+    margin-right: 2px;
+    box-sizing: border-box;
+}
+.candy002 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 45px;
+    padding-left: 170px;
+    padding-right: 170px;
+    background-image: url(../image/fon002.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.candy002>ul {
+    list-style-type: none;
+    font-size: 20px;
+    padding-left: 150px;
+}
+.candy002>ul>li {
+    background: #eee;
+    border: 5px ridge #ccc;
+    padding: 10px;
+    float: left;
+    width: 260px;
+    margin-right: 2px;
+    box-sizing: border-box;
+}
+.candy003 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 45px;
+    padding-left: 170px;
+    padding-right: 170px;
+    background-image: url(../image/fon003.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.candy003>ul {
+    list-style-type: none;
+    font-size: 20px;
+    padding-left: 150px;
+    padding-right: 70px;
+}
+.candy003>ul>li {
+    background: #eee;
+    border: 5px ridge #ccc;
+    padding: 10px;
+    float: left;
+    width: 260px;
+    margin-right: 2px;
+    box-sizing: border-box;
+}
+.candy004 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 45px;
+    padding-left: 170px;
+    padding-right: 170px;
+    background-image: url(../image/fon004.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.candy004>ul {
+    list-style-type: none;
+    font-size: 20px;
+    padding-left:150px;
+    padding-right: 60px;
+}
+.candy004>ul>li {
+    background: #eee;
+    border: 5px ridge #ccc;
+    padding: 10px;
+    float: left;
+    width: 260px;
+    margin-right: 2px;
+    box-sizing: border-box;
+}
+.candy005 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 45px;
+    padding-left: 170px;
+    padding-right: 170px;
+    background-image: url(../image/fon005.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.candy005>ul {
+    list-style-type: none;
+    font-size: 20px;
+    padding-left: 150px;
+    padding-right: 60px;
+}
+.candy005>ul>li {
+    background: #eee;
+    border: 5px ridge #ccc;
+    padding: 10px;
+    float: left;
+    width: 260px;
+    margin-right: 2px;
+    box-sizing: border-box;
+}
+.candy006 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 45px;
+    padding-left: 170px;
+    padding-right: 170px;
+    background-image: url(../image/fon006.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.candy006>ul {
+    list-style-type: none;
+    font-size: 20px;
+    padding-left: 150px;
+}
+.candy006>ul>li {
+    background: #eee;
+    border: 5px ridge #ccc;
+    padding: 10px;
+    float: left;
+    width: 260px;
+    margin-right: 2px;
+    box-sizing: border-box;
+}
+.btn {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.button {
+    border: 3px solid rgb(199, 161, 8);
+    border-radius: 5px;
+    max-width: 150px;
+    font-size: 30px;
+    padding: 5px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: crimson;
+}
